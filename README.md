@@ -1,4 +1,4 @@
-# EXPLORE DEEP İN POSTGRESQL:
+# EXPLORE DEEP IN POSTGRESQL:
 ## information_schema, Procedural Programming, Temporary Tables, and More
 
 This repository contains SQL queries to analyze a database table. The analyses were performed on a table named Titanic.
